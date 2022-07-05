@@ -3,7 +3,7 @@ How to install modules:
 
 Run the following command in your terminal:
 
-pip install requirements.txt
+pip install -r requirements.txt
 
 
 If you don't have pyaudio installed, install it using the wheel from https://www.lfd.uci.edu/
