@@ -1,0 +1,142 @@
+{
+  "intents":[
+    {
+      "tag":"greeting",
+      "patterns":["hello","hi","hey","wake up","jarvis","good morning","good evening","good afternoon"
+      ],
+      "responses":["Hello sir","How are you sir","Always here for you sir",
+        "Hello","I am here sir","Always active for you sir"
+      ]
+    },
+    {
+      "tag":"bye",
+      "patterns":["bye","goodbye","see you later","exit","shut down","shutdown","stop"
+      ],
+      "responses":["Bye sir","Good bye sir","Have a nice day sir","See you later","Thanks for using me sir"
+      ]
+    },
+    {
+      "tag":"health",
+      "patterns":["how are you","are you fine","how are you doing","how are you feeling","are you okay"
+      ],
+      "responses":["I am fine as usual sir","I am feeling great","I am very excited",
+        "I am very well","I am feeling good sir"
+      ]
+    },
+    {
+      "tag":"identity",
+      "patterns":["who are you","what are you","what is your name","your name","your identity","tell me your name"
+      ],
+      "responses":["I am Jarvis, an A I","Jarvis","I am an A I, my name is Jarvis","The name is Jarvis"
+      ]
+    },
+    {
+      "tag":"abilities",
+      "patterns":["what can you do","what do you do","what else can you do","what abilities do you have","what tasks can you perform"
+      ],
+      "responses":["I can automate anything in your life sir","I can make your life easier, what else do you want","I can do various kinds of task to assist you"
+      ]
+    },
+    {
+      "tag":"time",
+      "patterns":["time","tell me the time","what is the time","what time is it","tell time"
+      ],
+      "responses":["time"
+      ]
+    },
+    {
+      "tag":"date",
+      "patterns":["date","tell me the date","tell me date","what is the date","what date is today","today's date"
+      ],
+      "responses":["date"
+      ]
+    },
+    {
+      "tag":"day",
+      "patterns":["day","tell me the day","tell me day","what is the day","what day is today","today"
+      ],
+      "responses":["day"
+      ]
+    },
+    {
+      "tag":"wikipedia",
+      "patterns":["who is","what is","which is","tell me about","wikipedia"
+      ],
+      "responses":["wikipedia"
+      ]
+    },
+    {
+      "tag":"google",
+      "patterns":["search","search in google","google search","google"
+      ],
+      "responses":["google"
+      ]
+    },
+    {
+      "tag":"calculate",
+      "patterns":["calculate"
+      ],
+      "responses":["calculate"
+      ]
+    },
+    {
+      "tag":"play",
+      "patterns":["play","play on youtube"
+      ],
+      "responses":["play"
+      ]
+    },
+    {
+      "tag":"how to",
+      "patterns":["how to"
+      ],
+      "responses":["how to"
+      ]
+    },
+    {
+      "tag":"temperature",
+      "patterns":["temperature","tell me the temperature","what is the temperature","what's the temperature"
+      ],
+      "responses":["temperature"
+      ]
+    },
+    {
+      "tag":"introduction",
+      "patterns":["tell me about yourself","tell me something about you","introduce","introduce yourself"
+      ],
+      "responses":["introduction"
+      ]
+    },
+    {
+      "tag":"open",
+      "patterns":["open","open facebook","open youtube","open chrome","open instagram","open map"
+      ],
+      "responses":["open"
+      ]
+    },
+    {
+      "tag":"close",
+      "patterns":["close","close facebook","close youtube","close chrome","close instagram","close map"
+      ],
+      "responses":["close"
+      ]
+    },
+    {
+      "tag":"thanks",
+      "patterns":["thanks","thank you","thanks for helping me","thank you very much","good job","nice job","very good"
+      ],
+      "responses":["you're welcome","My pleasure","Glad to help","No problem","It was the least I could do"
+      ]
+    },
+    {
+      "tag":"chat",
+      "patterns":["let's chat","let's talk","chat","chat with me","talk","conversation","let's have a conversation"
+      ],
+      "responses":["chat"
+      ]
+    }
+  ]
+}
+
+
+
